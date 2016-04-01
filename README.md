@@ -11,3 +11,8 @@ apm link
 ```
 
 Then set your syntax theme in preferences -> themes :)
+
+## TODO
+
+* Add screenshots
+* Check against all file formats
