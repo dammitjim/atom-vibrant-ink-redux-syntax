@@ -1,0 +1,15 @@
+{
+  "name": "vibrant-ink-redux",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A port of the Vibrant Ink syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/jimah/atom-vibrant-ink-redux-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
